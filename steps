@@ -10,5 +10,6 @@ Install VS code or any other code editor.
 https://babeljs.io/docs/en/editors
 Babel provides extensions for particular code editors, install it.
 This enables proper syntax highlighting when you're writing JSX code that's being interpreted by Babel.
-VS package is Sublime Babel.
-To install it, file> preferences> extensions then search for sublime babel and install.
+download the required vs package syntax that has babel.
+(babel for javascript)
+To install it, file> preferences> extensions then search and install.
