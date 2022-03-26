@@ -13,3 +13,17 @@ This enables proper syntax highlighting when you're writing JSX code that's bein
 download the required vs package syntax that has babel.
 (babel for javascript)
 To install it, file> preferences> extensions then search and install.
+
+this is for building apps in vs code using react.
+the npm command would take around 15 minutes to install 'my app' in your pc
+after it's successfull, it will show packages or things to start react app
+cd C:/Users/admin/my-app, write this in command prompt
+then this, npm start
+this will open a localhost in your browser.
+now go to vs code open the my app folder 
+delete all files in public and src except index.js and index.html
+delete extra comments in the code
+<script src ="./src/index.js" type=" = "text/jsx></script></script>
+write this in place of your script
+
+now run your app, it will show results in the browser.
